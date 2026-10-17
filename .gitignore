@@ -1,0 +1,14 @@
+# Reproducible outputs are generated locally.
+/data/
+/figures/
+
+# Python environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and operating-system files.
+.DS_Store
+Thumbs.db
